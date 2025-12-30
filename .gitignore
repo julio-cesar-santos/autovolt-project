@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+*.json
+service-account-key.json
+.vscode/
